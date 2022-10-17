@@ -39,6 +39,36 @@ header{
     background-color:lightgreen;
 }
 
+.card_grid_9{
+    border: 1px solid white;
+    height: calc(80vh / 9);
+    width: calc(80vw / 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:lightgreen;
+}
+
+.card_grid_7{
+    border: 1px solid white;
+    height: calc(80vh / 7);
+    width: calc(80vw / 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:lightgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
 .card_grid_click{
     background-color: lightskyblue;
 }
