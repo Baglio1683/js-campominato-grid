@@ -20,6 +20,8 @@ function ShowNumber(){
 
 function CreateCards(){
 
+ grid.innerHTML = ""; 
+
 const sel = document.getElementById("select_cards");   
 let i= 1;
 
@@ -49,12 +51,6 @@ i++;
 }
 
 }
-
-
-
-
-
-
 
 
 
